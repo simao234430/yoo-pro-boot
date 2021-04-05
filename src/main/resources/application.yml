@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: yoo-system
+  profiles:
+    active: dev
+yoo:
+  name: yoo-boot
